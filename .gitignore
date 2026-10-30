@@ -1,0 +1,19 @@
+# Output and logs
+*.log
+*.csv
+*.html
+reports/
+logs/
+
+# Secrets
+.env*
+*.pfx
+*.pem
+*.key
+*.cer
+*creds*
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
